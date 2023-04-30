@@ -40,9 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
-    'base',
-    'userauths',
+   
     'taggit', 
     'crispy_forms',
     'django_social_share',
